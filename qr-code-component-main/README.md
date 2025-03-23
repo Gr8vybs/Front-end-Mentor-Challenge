@@ -14,8 +14,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -25,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Gr8vybs/Front-end-Mentor-Challenge.git)
+- Live Site URL:(https://gr8vybs.github.io/Front-end-Mentor-Challenge/)
 
 ## My process
 
@@ -37,13 +35,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Flexbox
 - Mobile-first workflow
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
 I learnt how to use flex box to arrange structures in my HTML easily.
-
-To see how you can add code snippets, see below:
 
 ````css
 .qr-container {
