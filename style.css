@@ -1,0 +1,60 @@
+/* resetting all default browser settings to ensure accurate styling*/
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* setting the background color for the design*/
+
+body {
+  background-color: hsl(212, 45%, 89%);
+  font-family: Roboto;
+}
+
+.qr-component {
+  margin:50px 24px;
+  height: 500px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 15px;
+  text-align: center;
+  box-shadow: 0.1px 0.1px 10px 0.1px hsl(216, 15%, 48%);
+}
+
+#qr-image {
+  width: 280px;
+  border-radius: 15px;
+  margin-top: 16px;
+  margin-bottom: 36px;
+}
+
+#qr-header {
+  margin: 0 30px 20px;
+  color: hsl(218, 44%, 22%);
+}
+
+#qr-para {
+  margin: 0 30px 20px;
+  color: hsl(216, 15%, 48%);
+}
+
+.attribution {
+  text-align: center;
+}
+
+@media (min-width: 980px) {
+  .qr-component {
+    height: 475px;
+    margin: 350px;
+  }
+  
+  #qr-image {
+  width: 250px;
+  border-radius: 15px;
+  margin-top: 16px;
+  margin-bottom: 36px;
+  }
+}
